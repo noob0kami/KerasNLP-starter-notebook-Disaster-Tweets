@@ -1,1 +1,2 @@
 # KerasNLP-starter-notebook-Disaster-Tweets
+This repository contains a starter notebook for classifying disaster-related tweets using KerasNLP. The goal is to determine whether a given tweet refers to a real disaster event or not. It demonstrates text preprocessing, model building, and evaluation using modern NLP tools. This project is a great starting point for anyone interested in applying deep learning to text classification tasks.
